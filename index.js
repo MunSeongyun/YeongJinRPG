@@ -3,6 +3,8 @@ const logininput = document.querySelector("#login-input");
 const greeting = document.querySelector("#greeting");
 const alerting = document.querySelector("#alert");
 
+
+
 const onLoginSubmit = (e) =>{
     e.preventDefault();
 
