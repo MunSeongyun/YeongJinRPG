@@ -1,7 +1,6 @@
-#title {
-    background-color: aqua;
+.hidden{
+    display: none;
 }
-
-.test{
-    background-color: darkred;
+#alert{
+    color: red;
 }
